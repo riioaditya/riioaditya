@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rio</h1>
-<h3 align="center">Currently just a student at dian nuswantoro university</h3>
+<h3 align="center">Currently just a student at Dian Nuswantoro University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
